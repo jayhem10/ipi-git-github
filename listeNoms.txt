@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 NOBLE Jérémy
 TOTO
-=======
-NOBLE
-TOTO toto
->>>>>>> 21675d487395b6cf95892fec39476e253a89a292
+
