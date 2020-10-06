@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 NOBLE Jérémy
 TOTO
 
+=======
+NOBLE 
+TOTO Toto
+>>>>>>> a1a3308c44f3690bd3e798a895a45af4221f4d6b
