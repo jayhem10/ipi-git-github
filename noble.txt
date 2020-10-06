@@ -1,2 +1,6 @@
 Jérémy NOBLE
+<<<<<<< HEAD
 Modification B
+=======
+Modification A
+>>>>>>> 5ffaf4c2b7d076fc6acf02fcdd8103ba468832bc
