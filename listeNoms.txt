@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 NOBLE Jérémy the KING of the North !
 TOTO Toto dit le grand Toto !
+=======
+NOBLE Jérémy the King of the North !
+TOTO Toto dit le GRAND Toto !
+>>>>>>> 5e571449b09061a0525636266085d248869d3a42
 
 
 
